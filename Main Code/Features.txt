@@ -1,0 +1,12 @@
+URL Features:-
+
+
+
+
+21q31412.IP Address in the URL:-
+Checks for the presence of IP address in the URL. URLs may have IP address instead of domain name. 
+If an IP address is used as an alternative of the domain name in the URL, we can be sure that someone is 
+trying to steal personal information with this URL.
+If the domain part of URL has IP address, the value assigned to this feature is 1 or else 0
+
+2.
